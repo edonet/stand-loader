@@ -1,0 +1,12 @@
+{
+    "name": "@arted/stand-loader",
+    "version": "0.0.1",
+    "description": "stand in modules for webpack",
+    "main": "index.js",
+    "repository": "git@github.com:edonet/stand-loader.git",
+    "author": "edonet <edonet@163.com>",
+    "license": "MIT",
+    "dependencies": {
+        "loader-utils": "^1.1.0"
+    }
+}
