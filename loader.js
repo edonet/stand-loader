@@ -43,7 +43,7 @@ module.exports.pitch = function pitch() {
 
         // 替换模块
         if (local && typeof local === 'string') {
-            return `module.exports = require('${ local }'${ this.resourceQuery });`;
+            return `module.exports = require('${ local + this.resourceQuery }');`;
         }
     }
 
