@@ -1,6 +1,6 @@
 {
     "name": "@arted/stand-loader",
-    "version": "0.0.101",
+    "version": "0.0.102",
     "description": "stand in modules for webpack",
     "main": "index.js",
     "repository": "git@github.com:edonet/stand-loader.git",
